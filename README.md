@@ -52,6 +52,7 @@ Due to the large size, the open-source pre-trained Englsih and Dutch word embedd
 
 ## References
 Keywords Extraction Using TF-IDF Method https://www.kaggle.com/code/rowhitswami/keywords-extraction-using-tf-idf-method/notebook
+
 Cosine Similarity between two sets of vectors? https://math.stackexchange.com/questions/1122423/cosine-similarity-between-two-sets-of-vectors
 
 
