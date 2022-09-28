@@ -16,8 +16,8 @@ thesis-project
 │       │   test_results.png
 │       │   edia_results.png
 └───code
-│   │   crawl_data.ipynb 
-│   │   basic_statistic.ipynb
+│   │   crawl_dev_data.ipynb 
+│   │   basic_statistics.ipynb
 │   │   run_dev.ipynb
 │   │   run_test.ipynb
 └───LICENSE
