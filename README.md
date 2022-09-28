@@ -1,9 +1,8 @@
-# sample-thesis-project
-This repository is an example for the structure and content that a CLTL thesis project may have. 
+# Keyword-based text classification method
+This repository is part of the 2022 MA Text mining thesis "Mapping text to learning objectives: A keyword-based text classification method" by Jingyue Zhang. This thesis project was part of an internship offered by EDIA and was supervised by Hennie van der Vliet, Pia Sommerauer, Mark Breuker and Isa Maks.
 
 # Overview
-This repository assumes a Python project, with an Open License (MIT style). If any of these aspects are different from your project please make sure to change those accordingly.
-Please feel free to clone/fork this repository and use it as a template for your thesis.
+This repository assumes a Python project, with an Open License (MIT style), an requirement, an readme, data file, results file
 
 # Project structure
 
@@ -13,15 +12,14 @@ thesis-project
 │       │   sample_data.csv 
 └───results
 │       │   sample_results.png 
-└───src
-│   └───utils
-│       │   plotting.py
-│   │   main.py
-│   .gitignore
+└───code
+│   └───crawl_data.ipynb 
+│   │   basic_statistic.ipynb
+│   │   run_dev.ipynb
+│   │   run_test.ipynb
 │   LICENSE
 │   README.md
 │   requirements.tx
-```
 
 # To Do
 Once you start, please go through the following steps to tailor this template to your project
