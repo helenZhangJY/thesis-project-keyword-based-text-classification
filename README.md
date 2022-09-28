@@ -16,13 +16,13 @@ thesis-project
 │       │   test_results.png
 │       │   edia_results.png
 └───code
-│   └───crawl_data.ipynb 
+│   │   crawl_data.ipynb 
 │   │   basic_statistic.ipynb
 │   │   run_dev.ipynb
 │   │   run_test.ipynb
-│   LICENSE
-│   README.md
-│   requirements.tx
+└───LICENSE
+└───README.md
+└───requirements.tx
 ```
 
 ## Thesis report
