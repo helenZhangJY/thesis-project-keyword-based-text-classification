@@ -11,15 +11,17 @@ thesis-project
 └───data
 │       │   dev_data.csv 
 │       │   test_data.csv
+│       │   LO_picklefile
+│       │   stopwords
 └───results
-│       │   dev_results.png 
-│       │   test_results.png
-│       │   edia_results.png
+│       │   evaluation.ipynb 
 └───code
 │   │   crawl_dev_data.ipynb 
 │   │   basic_statistics.ipynb
-│   │   run_dev.ipynb
-│   │   run_test.ipynb
+│   │   run_dev_bl.ipynb
+│   │   run_dev_w2v.ipynb
+│   │   run_test_bl.ipynb
+│   │   run_test_w2v.ipynb
 └───LICENSE
 └───README.md
 └───requirements.tx
