@@ -34,9 +34,6 @@ In the 'Data' folder you can find two csv files 'dev_data.csv' and 'test_data.cs
 There are two sub folders: stopwords folder contain English stopwords list and Dutch stopwords list. LO_picklefile folders contain learning objectives pickle files for GCSE Combined Science and SURF Lexical Information Literacy (Vocabulaire Informatievaardigheid).
 
 
-
-Gathering and annotating the data was part of this thesis project. The provided excel file contains the 'most correct' labels of my agreement study. More information on this agreement study can be found in Chapter 3 of the thesis report in the file 'Eva_Zegelaar_Thesis_Report.pdf'.
-
 ## Code
 In this folder you can find 6 jupyter notebook files, in each file you can find the code and outcomes of the code.
 - cwarl_dev_dataset.ipynb: generate development dataset.
